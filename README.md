@@ -12,6 +12,8 @@ feature attribution methods, perturbation-based techniques and concept and examp
 - 🎬 I am also developing a script learning app driven by my love of acting, which allows users to practice their lines with AI actors. Users can do full practice runs of entire scripts with the application, allowing them to rehearse an entire play, scene or monologue by themselves anywhere they wish!
   
 - 👯 I’m looking to collaborate on open-source explainable AI projects focusing on identifying and mitigating bias in Large Language Model outputs.
+
+- 💻 I have also design and host websites for small to medium-sized enterprises, and you can get in contact for more information.
   
 - 📫 How to reach me: haughepa@tcd.ie
   
