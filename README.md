@@ -13,7 +13,7 @@ feature attribution methods, perturbation-based techniques and concept and examp
   
 - 👯 I’m looking to collaborate on open-source explainable AI projects focusing on identifying and mitigating bias in Large Language Model outputs.
 
-- 💻 I have also design and host websites for small to medium-sized enterprises, and you can get in contact for more information.
+- 💻 I have also designed and hosted websites for small to medium-sized enterprises like [Gallagher Bros](https://www.gallagherbros.ie/), and you can get in touch with me for more information.
   
 - 📫 How to reach me: haughepa@tcd.ie
   
